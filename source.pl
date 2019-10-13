@@ -1,6 +1,4 @@
-% BLG435E-AI Fall/2005 HW#2
-% Student Number: 040020365
-% Student Name: Mehmet CAMBAZ
+
 %-------------------------------------------------------------------------
 % Linear Peg Solitaire (one dimensional peg solitaire)
 
